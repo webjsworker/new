@@ -11,6 +11,7 @@ document.getElementById('plus').onclick = function() {value(step)}
 document.getElementById('minus').onclick = function() {value(-step)}
 
 function bert(cenge){}
+function bert(ceng___2e){}
 
 function value(namber) {
 
