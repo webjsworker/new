@@ -10,6 +10,7 @@ var h = 160 ;
 document.getElementById('plus').onclick = function() {value(step)}
 document.getElementById('minus').onclick = function() {value(-step)}
 
+function ber (nam){}
 
 function value(namber) {
 
